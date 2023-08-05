@@ -61,6 +61,6 @@ Por favor, selecione uma das opções:
         print ('')
         break
     else:
-        print('Operación inválida, por favor selecione novamente a opção desejada')
+        print('Operación inválida, selecione novamente a opção desejada')
   
     
